@@ -9,11 +9,14 @@ https://github.com/aogaga/Code-Crew-Class
 		2. angular
 		3. vuejs 
 ### HTML5 
+	1. Jade/ pug
+	2. Few Templating languages
 ### CSS3 
-### Sass/scss
 	1. Bootstrap / foundation css
-	2. nodejs : server side run time 
-	3. Database : mondodb and mysql 
+	2. Sass/scss
+### nodejs : server side run time 
+
+### Database : mondodb and mysql 
 
 
 ### Technical Interview 
