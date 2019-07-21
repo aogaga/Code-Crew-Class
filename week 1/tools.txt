@@ -1,0 +1,14 @@
+Code Editor
+	1. Sublimetext 
+	2. Visual Studio Code 
+
+
+IDE 
+	3. Webstorm 
+	
+softwares 
+Nodejs 
+postman 
+google chrome
+
+

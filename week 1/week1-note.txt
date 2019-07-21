@@ -1,4 +1,6 @@
 6-8 months
+https://github.com/aogaga/Code-Crew-Class
+
 
 Javascript 
 	-> Frameworks 	
@@ -44,4 +46,13 @@ http://cs50.tv/
 
 
 repository => repo
+
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_Types
+http://cs50.tv/2017/fall/#about,shorts
+https://nodejs.org/en/
+https://www.sublimetext.com/3
+https://code.visualstudio.com/
+
+https://github.com/aogaga/Code-Crew-Class
 
