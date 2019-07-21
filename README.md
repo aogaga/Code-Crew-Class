@@ -5,18 +5,18 @@ https://github.com/aogaga/Code-Crew-Class
 # Class outline
 ### Javascript 
 	-> Frameworks 	
-		Reactjs
-		angular
-		vuejs 
+		1. Reactjs
+		2. angular
+		3. vuejs 
 ### HTML5 
-###CSS3 
-###Sass/scss
+### CSS3 
+### Sass/scss
 	1. Bootstrap / foundation css
 	2. nodejs : server side run time 
 	3. Database : mondodb and mysql 
 
 
-###Technical Interview 
+### Technical Interview 
 	1. Datat Structures and algorithms
 
 	search, sorting 
@@ -34,7 +34,7 @@ https://github.com/aogaga/Code-Crew-Class
 
 github
 
-####documentation / api 
+## documentation / api 
 
 ##### angular.js vs angular 
 
