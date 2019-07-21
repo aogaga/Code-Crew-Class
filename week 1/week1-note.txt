@@ -1,0 +1,43 @@
+6-8 months
+
+Javascript 
+	-> Frameworks 	
+		Reactjs
+		angular
+		vuejs 
+HTML5 
+CSS3 
+Sass/scss
+	Bootstrap / foundation css
+nodejs : server side run time 
+Database : mondodb and mysql 
+
+
+Technical Interview 
+	Datat Structures and algorithms
+
+	search, sorting 
+	araay, graph, linkedlist, queues, Tree(Binary Search Tree)
+
+
+stack : Mean stack 
+
+Build automation : gulp, grunt, webpack 
+Unit Testing
+front end developer 
+fullstack developer 
+backend developer 
+
+github
+
+documentation / api 
+
+angular.js vs angular 
+
+
+Go
+Java
+Python 
+C++/C
+
+http://cs50.tv/
