@@ -15,15 +15,17 @@ https://github.com/aogaga/Code-Crew-Class
 	1. Bootstrap / foundation css
 	2. Sass/scss
 ### nodejs : server side run time 
+	1. expressjs
 
-### Database : mondodb and mysql 
+### Database 
+	1. mondodb
+	2. mysql 
 
 
 ### Technical Interview 
 	1. Datat Structures and algorithms
-
-	search, sorting 
-	araay, graph, linkedlist, queues, Tree(Binary Search Tree)
+		search, sorting 
+		araay, graph, linkedlist, queues, Tree(Binary Search Tree)
 ### Unit Testing
 
 ## Stack : Mean stack 
