@@ -1,1 +1,1 @@
-## week 2 Outline
+## Week 2 Outline
