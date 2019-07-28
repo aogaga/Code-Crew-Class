@@ -9,11 +9,12 @@ https://github.com/aogaga/Code-Crew-Class
 		2. angular
 		3. vuejs 
 ### HTML5 
-	1. Jade/ pug
+	1. jade/ pug
 	2. Few Templating languages
 ### CSS3 
 	1. Bootstrap / foundation css
 	2. Sass/scss
+
 ### nodejs : server side run time 
 	1. expressjs
 
