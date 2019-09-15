@@ -1,0 +1,52 @@
+body{
+	background: whitesmoke;
+	font-size: 12px;
+		font-family: 'Open Sans Condensed', sans-serif;
+}
+
+a{
+	color:#660033;
+}
+
+
+header, footer{
+	background: black;
+	color:#fff;
+	
+}
+
+header a, footer a{
+	color:white;
+}
+
+.navbar-nav a{
+	color:white;
+}
+
+.main-content{
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.box{
+	
+	background: #fff;
+	margin:10px;
+	padding:10px;
+	border:1px solid #efefef;
+
+}
+
+
+
+article h1{
+	font-family: 'Anton', sans-serif;
+	}
+
+article h4{
+	font-family: 'Oswald', sans-serif;
+
+}
+
+form{
+	padding:20px;
+}
